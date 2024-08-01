@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
+import import './styles/globals.scss';  // Ensure this path is correct according to your project structure
 
 const Showcase = () => {
   return (
@@ -11,8 +12,8 @@ const Showcase = () => {
     >
       <main className="showcase">
         <h1 className="showcase-header h-color">aviate</h1>
-        <h2 className="showcase-header-text h-color zedya-font">
-          The ro-aviation bot.
+        <h2 className="showcase-header-text h-color zeyada-font">
+          The only discord bot you need!
         </h2>
         <p className="showcase-para p-color">
           One of the awesome discord bot with tons of commands that will fill
