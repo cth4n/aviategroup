@@ -10,9 +10,9 @@ const Showcase = () => {
       animate={{ opacity: 1 }}
     >
       <main className="showcase">
-        <h1 className="showcase-header h-color">BOT</h1>
-        <h2 className="showcase-header-text h-color">
-          The only discord bot you need!
+        <h1 className="showcase-header h-color">aviate</h1>
+        <h2 className="showcase-header-text h-color zedya-font">
+          The ro-aviation bot.
         </h2>
         <p className="showcase-para p-color">
           One of the awesome discord bot with tons of commands that will fill
